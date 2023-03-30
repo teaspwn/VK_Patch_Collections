@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         VK Config editor
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      0.2
+// @description  Патчер для ВК
 // @author       .teaspwn
-// @match        https://vk.com/*
+// @match        *://*.vk.com/*
+// @match        *://*.vk.ru/*
+// @updateURL    https://github.com/teaspwn/VK_Patch_Collections/raw/main/VK-Config-Editor.user.js
+// @downloadURL  https://github.com/teaspwn/VK_Patch_Collections/raw/main/VK-Config-Editor.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vk.com
 // @run-at       document-start
 // @grant        none
